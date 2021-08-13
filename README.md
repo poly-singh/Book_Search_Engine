@@ -9,8 +9,7 @@ This project was bootstrapped with Create React App.
 https://book-search-ps.herokuapp.com/
 
 ## Screenshot
-
-
+![Book_search](./assets/images/Book_search.png)
 
 
 ## User Story 
@@ -62,10 +61,9 @@ THEN I am logged out of the site and presented with a menu with the options Sear
  * npm install 
  * npm run Develop
  
-## Screenshots
-![Book_search](./assets/images/Book_search.png)
 
- ## Github Repo
+
+## Github Repo
 https://github.com/poly-singh/Book_Search_Engine 
 
 
